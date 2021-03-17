@@ -8,7 +8,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <iframe
-        src="https://drive.google.com/file/d/1yOUYtPjTlGbRuqdvI3fSTqsIjXbFi6Tz/preview"
+        src="https://drive.google.com/file/d/1IPiQGgF7qMJCHdTtEnjB-s6TbvIOZMCN/preview"
         style={{ width: "100vw", height: "100vh" }}
       ></iframe>
     </div>
