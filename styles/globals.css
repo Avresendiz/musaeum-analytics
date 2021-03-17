@@ -10,6 +10,11 @@ body {
   overflow: hidden;
 }
 
+iframe {
+  width: 100vw;
+  height: 100vh;
+}
+
 a {
   color: inherit;
   text-decoration: none;
