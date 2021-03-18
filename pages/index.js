@@ -19,7 +19,11 @@ export default function Home() {
           title="Musaeum Analytics"
         />
       ) : (
-        <Spinner animation="grow" variant="dark" />
+        <div className="centerItem">
+          <Spinner animation="grow" variant="dark" />
+          <Spinner animation="grow" variant="dark" />
+          <Spinner animation="grow" variant="dark" />
+        </div>
       )}
     </>
   );
